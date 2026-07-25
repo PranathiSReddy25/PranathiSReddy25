@@ -5,14 +5,12 @@
 
 💡 Passionate about RTL Design, Digital Design, Computer Architecture, FPGA Design, and VLSI.
 
-🚀 Currently building digital systems in Verilog HDL and strengthening my understanding of processor design through hands-on projects.
-
-
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Pranathi S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranathis.ec23@bmsce.ac.in) 
+🚀 Currently building digital systems in Verilog HDL and strengthening my understanding of processor design through hands-on projects
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+Verilog HDL
+Vivado
+Git
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PranathiSReddy25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PranathiSReddy25&theme=dark&hide_border=false)<br/>

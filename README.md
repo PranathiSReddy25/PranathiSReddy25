@@ -7,10 +7,29 @@
 
 🚀 Currently building digital systems in Verilog HDL and strengthening my understanding of processor design through hands-on projects
 
-# 💻 Tech Stack:
-Verilog HDL
-Vivado
-Git
+## 🚀 Featured Projects
+
+⭐ RISC-V 5-Stage Pipelined Processor
+
+⭐ UART FIFO with CRC Error Detection
+
+⭐ ATM Controller using FSM
+
+Languages
+• Verilog HDL
+• C
+• Python
+
+Tools
+• Xilinx Vivado
+• Git
+
+Areas of Interest
+• RTL Design
+• Digital Design
+• Computer Architecture
+• FPGA
+• VLSI
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=PranathiSReddy25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=PranathiSReddy25&theme=dark&hide_border=false)<br/>

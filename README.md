@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a student at BMSCE, Studying Electronics And Communication Engineering
+## 👋 Hi, I'm Pranathi!
+
+🎓 Electronics and Communication Engineering undergraduate at BMS College of Engineering.
+
+💡 Passionate about RTL Design, Digital Design, Computer Architecture, FPGA Design, and VLSI.
+
+🚀 Currently building digital systems in Verilog HDL and strengthening my understanding of processor design through hands-on projects.
 
 
 ## 🌐 Socials:
